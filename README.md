@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0067A3&height=300&section=header&text=Hi%20there%20👋&fontSize=90&fontColor=FFFFFF" />
 </div>
 
-###
-
 <div align="center">
 
   ### Welcome to my page!
