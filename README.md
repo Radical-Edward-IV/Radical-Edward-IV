@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0067A3&height=300&section=header&text=Hi%20there%20👋&fontSize=90&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=330&color=gradient&customColorList=8,12,30&text=Hi,%20I'm%20Edward!&section=header&reversal=false&fontColor=333333&descAlign=50" />
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
   ### Welcome to my page!
 
   I'm **Ed**, **Backend developer**
-  from 🇰🇷
+  from 
   **South Korea**
 
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRadical-Edward-IV&count_bg=%230067A3&title_bg=%230067A3&icon=postwoman.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
