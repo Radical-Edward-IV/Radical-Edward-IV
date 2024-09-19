@@ -1,5 +1,8 @@
+<div style="background-color: ffffff">
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=330&color=gradient&customColorList=8,12,30&text=Hi,%20I'm%20Edward!&section=header&reversal=false&fontColor=333333&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=330&color=gradient&customColorList=8,12,30&text=Hi,%20I'm%20Edward!&section=header&reversal=false&fontColor=ffffff&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=330&color=gradient&customColorList=8,12,30&section=header&reversal=false&fontColor=333333&descAlign=50" />
 </div>
 
 <div align="center">
@@ -80,3 +83,4 @@
 </div>
 
 ###
+</div>
