@@ -24,7 +24,7 @@
   - Mar 23, 2024 - [인덱스 기본 원리](https://radical-edward-iv.github.io/2024/03/23/sqlp-certification-exam-index-basic-principles.html#google_vignette)
 </div>
 
-<div>
+<!--<div>
   <h2>Tech Stack</h2>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Java%2C+Spring%2C+ORM%2C+SQL+Mapper%2C+MSA)](https://git.io/typing-svg)   
@@ -35,19 +35,15 @@
 <div>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
+</div>-->
 
 <!--<div>
   <img src="https://capsule-render.vercel.app/api?type=venom&height=330&color=gradient&customColorList=8&section=header&reversal=false&fontColor=333333&descAlign=50" />
 </div>-->
 
-<div align="center">
+<!--<div align="center">
   <img src="https://streak-stats.demolab.com?user=Radical-Edward-IV&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-<br />
-<br />
-<br />
+</div>-->
 
 <!--<div>
   <img src="https://capsule-render.vercel.app/api?type=wave&height=330&color=gradient&customColorList=8&section=footer&reversal=false&fontColor=ffffff&descAlign=50" />
