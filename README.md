@@ -12,7 +12,7 @@
     <img align="right" width="25%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm45dnkwcXZvdDc0eWNrZnNqaDJsNmx3eWd4ZHl0eG8wbjhiNG5hcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rX0VO4YJcrjqw/giphy.gif" />
   </picture>
 
-  <p><i>Full Stack / Web Developer</i></p>
+  <p><i>Backend Developer</i></p>
 </div>
 
 <div>
